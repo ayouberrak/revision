@@ -1,0 +1,12 @@
+1 . Quelle est la différence entre DDL (CREATE, ALTER) et DML (INSERT, UPDATE,
+DELETE) ?
+-> DDL est la gestion des tables
+-> DML est la gestion de donnes 
+
+
+2.À quoi sert une clé primaire ?
+-> il sert a identifier les ligne des table
+
+3. Comment filtre-t-on des données avec la clause WHERE ?
+-> avant where on filtre les donnes dont on veut faire la fondition where 
+
