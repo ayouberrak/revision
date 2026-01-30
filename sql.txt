@@ -10,3 +10,7 @@ DELETE) ?
 3. Comment filtre-t-on des données avec la clause WHERE ?
 -> avant where on filtre les donnes dont on veut faire la fondition where 
 
+jour 2:
+count sert a le nombre des row d'une colomune specifique
+sum sert a determiner la somme de valeur d'une colomun specifique
+avg sert a determiner la moyenne de valeur d'une colomun specifique
