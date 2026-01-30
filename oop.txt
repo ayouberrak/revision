@@ -1,3 +1,11 @@
 class est comme une blue print et l'objet est une insatnace de cette blue print
 this referances a l'objet dans la class il sert a acceder o properti ou les methode d'une class 
 constructeur il s'apple quand l'objet est initialisee
+
+
+l'encapuslation sert a proteger les atribus
+
+public on peut y acceder en dehors de la class 
+private on peut y acceder seulement dans la class 
+protected om peut y acceder seulement dans la class et les class fille 
+
