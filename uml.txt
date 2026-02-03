@@ -1,0 +1,14 @@
+1 / Quelle est la différence fondamentale entre la composition et l'agrégation ?
+Donnez un exemple pour chacune
+-> une composition est une version fort de agregation par exemple on a une entite notification et une user si il n'exicte pas l'user la notification ne va pas apparaitre
+-> une agregation est une relation faible de depandances par exemple on a class et eleves si en enleve la class l'eleve reste
+
+2 / 1..*------1..*
+est many to many
+ 
+3 / une class associative est une class qui se cree quand il ya une relation many to many et il contient les foregin key de deux class
+
+
+
+challange 3 :
+erreur et quand tu va supprimer la class parent la class fille ne va pas etre supprimer 
